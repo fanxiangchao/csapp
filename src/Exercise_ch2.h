@@ -7,4 +7,8 @@
 */
 int uadd_ok(unsigned x, unsigned y);
 
+int tadd_ok(int x, int y);
+
+int div16(int x);
+
 #endif
